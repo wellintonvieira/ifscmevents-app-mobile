@@ -1,0 +1,19 @@
+<resources>
+    <!--activity-->
+    <dimen name="activity_margin">10dp</dimen>
+    <!--card view-->
+    <dimen name="card_view_image">90dp</dimen>
+    <dimen name="card_view_margin">2dp</dimen>
+    <dimen name="card_view_margin_height">5dp</dimen>
+    <dimen name="card_view_max_height">300dp</dimen>
+    <!--navigation bar-->
+    <dimen name="app_bar_height">250dp</dimen>
+    <!--nav header-->
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <!--tab layout-->
+    <dimen name="tab_layout">50dp</dimen>
+    <!--text-->
+    <dimen name="text_size_title">20sp</dimen>
+    <dimen name="text_size_content">18sp</dimen>
+</resources>

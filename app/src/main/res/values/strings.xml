@@ -1,0 +1,45 @@
+<resources>
+    <!--activity-->
+    <string name="app_name">Gerenciador de Eventos</string>
+    <string name="welcome">Seja Bem Vindo!</string>
+    <!--navigation drawer-->
+    <string name="next_events">Próximos Eventos</string>
+    <string name="all_events">Todos os Eventos</string>
+    <string name="more">Outras Opções</string>
+    <string name="feedback">Feedback</string>
+    <string name="feedback_text">Escreva seu feedback</string>
+    <string name="about_content">Desenvolvido por Wellinton Vieira</string>
+    <string name="about_version">Versão 1.0</string>
+    <string name="email_contact">wellinton.notnillew@gmail.com</string>
+    <string name="choose_client_email">Escolha um cliente de email</string>
+    <string name="send">Enviar</string>
+    <string name="about">Sobre</string>
+    <string name="logout">Logout</string>
+    <string name="exit">Sair</string>
+    <!--navigation bar-->
+    <string name="home">Home</string>
+    <string name="talks">Palestras</string>
+    <string name="map">Localização</string>
+    <string name="speakers">Palestrantes</string>
+    <!--text content-->
+    <string name="name">Nome</string>
+    <string name="desc">Descrição</string>
+    <string name="date">Data</string>
+    <string name="hour">Horário</string>
+    <string name="of_item">às</string>
+    <string name="category">Categoria</string>
+    <string name="maxpeople">Quantidade de pessoas</string>
+    <string name="location">Local</string>
+    <string name="username">Usuário</string>
+    <string name="email">E-mail</string>
+    <string name="formation">Formação</string>
+    <string name="bio">Biografia</string>
+    <!--errors-->
+    <string name="message_internet">Sem conexão com a internet</string>
+    <string name="message_erro">Não foi possível conectar-se com o servidor</string>
+    <string name="message_events">Não há eventos cadastrados</string>
+    <string name="message_speakers">Não há palestrantes cadastrados</string>
+    <string name="message_talks">Não há palestras cadastradas</string>
+    <!--google key-->
+    <string name="google_maps_key">your google-maps-api key</string>
+</resources>
